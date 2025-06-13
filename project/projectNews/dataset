@@ -1,0 +1,36 @@
+[
+    {
+        "id": "a32f4b8e-1c2d-4a3b-9f5c-45d1f2a3b4c",
+        "data": {
+            "en": {
+                "title": "Test news",
+                "date": "2025-06-13T12:00:00.000Z",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non sapien dui. Ut venenatis pretium turpis, varius imperdiet arcu fringilla a. Nam eu euismod ipsum. In dapibus facilisis magna sit amet hendrerit. Morbi gravida diam quis ante tincidunt fermentum. Nunc faucibus leo in lorem eleifend laoreet. Mauris vel elit convallis, faucibus elit a, dapibus felis. Cras imperdiet non nunc at semper. Ut et varius enim, vel placerat odio. Vestibulum malesuada dictum congue. Vestibulum eu nisi faucibus, laoreet eros non, pharetra nisl. Donec suscipit nulla risus, vel blandit mi varius in. Suspendisse quis pulvinar leo, nec malesuada massa. Nunc augue nulla, venenatis mollis nisl et, hendrerit egestas quam. Donec id lacus consectetur arcu ullamcorper mollis ac id leo.",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non sapien dui. Ut venenatis pretium turpis, varius imperdiet arcu fringilla a. Nam eu euismod ipsum. In dapibus facilisis magna sit amet hendrerit. Morbi gravida diam quis ante tincidunt fermentum. Nunc faucibus leo in lorem eleifend laoreet. Mauris vel elit convallis, faucibus elit a, dapibus felis. Cras imperdiet non nunc at semper. Ut et varius enim, vel placerat odio. Vestibulum malesuada dictum congue. Vestibulum eu nisi faucibus, laoreet eros non, pharetra nisl. Donec suscipit nulla risus, vel blandit mi varius in. Suspendisse quis pulvinar leo, nec malesuada massa. Nunc augue nulla, venenatis mollis nisl et, hendrerit egestas quam. Donec id lacus consectetur arcu ullamcorper mollis ac id leo.",
+                "heroImage": "https://dummyimage.com/500x300/aaa/333.png",
+                "authorName": "John Doe",
+                "authorEmail": "john.doe@email.com",
+                "authorJobTitle": "Software Engineer",
+                "sectionName": "Technology"
+            }
+        },
+        "order": 0
+    },
+    {
+        "id": "b45f6c7d-2e3f-4a5b-8c9d-0e1f2a3b4c5d",
+        "data": {
+            "en": {
+                "title": "Another test news",
+                "date": "2025-06-14T12:00:00.000Z",
+                "abstract": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "heroImage": "https://dummyimage.com/500x300/aaa/444.png",
+                "authorName": "Jane Smith",
+                "authorEmail": "jane.smith@email.com",
+                "authorJobTitle": "Project Manager",
+                "sectionName": "Business"
+            }
+        },
+        "order": 1
+    }
+]
